@@ -1,5 +1,6 @@
+@@ -1,18 +1,18 @@
 < div  align = " centro " >
-< h1  align = " center " >Hola, soy < a  href = " https://aristi.dev " >Carlos Guirola</ a > 👋</ h1 >
+< h1  align = " center " >Hola, soy Carlos Guirol 👋</ h1 >
 </div>​​
 - ⭐ Estrella de Github ⭐
 - 📲 Desarrollador móvil
