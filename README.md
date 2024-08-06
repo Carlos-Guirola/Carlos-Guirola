@@ -4,7 +4,7 @@ oy un desarrollador apasionado por la creación de aplicaciones web y software. 
 
 ## 🚀 Proyectos Destacados
 - **[Juego de Tragamonedas]()**: Un juego de tragamonedas completo con funcionalidad de login, vista administrativa para gestionar el juego y una base de datos para almacenar información de usuarios y resultados.
-- **[Sitio Web Strong Barber Shop]()**: Un sitio web diseñado para gestionar citas en una barbería, con una interfaz fácil de usar para que los clientes puedan agendar sus visitas y para que el personal administre las citas.
+- **[Sitio Web Strong Barber Shop](https://github.com/Carlos-Guirola/Strong-Barber-Shop)**: Un sitio web diseñado para gestionar citas en una barbería, con una interfaz fácil de usar para que los clientes puedan agendar sus visitas y para que el personal administre las citas.
 
 
 ## 📚 Habilidades
