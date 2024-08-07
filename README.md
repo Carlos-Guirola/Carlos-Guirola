@@ -1,6 +1,10 @@
-# ¡Hola, soy Carlos Guirola 👋
+                                           # ¡Hola, soy Carlos Guirola 👋
 ![Banner](https://github.com/Carlos-Guirola/Carlos-Guirola/blob/main/baner.png)
-oy un desarrollador apasionado por la creación de aplicaciones web y software. Me encanta resolver problemas, diseñar interfaces innovadoras y aprender nuevas tecnologías. Disfruto trabajando en proyectos desafiantes que me permiten combinar mi creatividad con mis habilidades técnicas para construir soluciones efectivas y atractivas. Estoy siempre en busca de nuevas oportunidades para mejorar mis conocimientos y habilidades, y de colaborar en proyectos que marquen una diferencia.
+Soy un desarrollador apasionado por la creación de aplicaciones web y software. Me encanta resolver problemas, diseñar interfaces innovadoras y aprender nuevas tecnologías. Disfruto trabajando en proyectos desafiantes que me permiten combinar mi creatividad con mis habilidades técnicas para construir soluciones efectivas y atractivas. Estoy siempre en busca de nuevas oportunidades para mejorar mis conocimientos y habilidades, y de colaborar en proyectos que marquen una diferencia.
+
+## 💼 Mi Compañía
+
+Soy el fundador de **[TecnoArte-Web](https://tecnoarteweb.s3.us-east-2.amazonaws.com/TenncoArte-web/index.html)**, una pequeña compañia dedicada al desarrollo de soluciones web . En TecnoArte-Web, nos especializamos en la creación de aplicaciones web personalizadas, sitios web y soluciones digitales innovadoras para satisfacer las necesidades de nuestros clientes.
 
 ## 🚀 Proyectos Destacados
 - **[Juego de Tragamonedas]()**: Un juego de tragamonedas completo con funcionalidad de login, vista administrativa para gestionar el juego y una base de datos para almacenar información de usuarios y resultados.
@@ -16,11 +20,10 @@ oy un desarrollador apasionado por la creación de aplicaciones web y software. 
 ## 📫 Cómo Contactarme
 
 - **Email**: [guirolacarlos745@gmail.com](mailto:guirolacarlos745@gmail.com)
+- **LinkedIn**: [Tu Perfil de LinkedIn](enlace-a-tu-perfil)
 
 
 ## 🌟 Intereses
-## 🌟 Intereses
-
 - **Desarrollo de software**: Explorando nuevas técnicas y herramientas para crear soluciones innovadoras.
 - **Diseño UX/UI**: Creando interfaces intuitivas y atractivas que mejoran la experiencia del usuario.
 - **Tecnologías emergentes**: Manteniéndome actualizado con las últimas tendencias y herramientas en el mundo del desarrollo
