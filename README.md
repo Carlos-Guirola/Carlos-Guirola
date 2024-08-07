@@ -7,7 +7,7 @@ Soy un desarrollador apasionado por la creación de aplicaciones web y software.
 Soy el fundador de **[TecnoArte-Web](https://tecnoarteweb.s3.us-east-2.amazonaws.com/TenncoArte-web/index.html)**, una pequeña compañia dedicada al desarrollo de soluciones web . En TecnoArte-Web, nos especializamos en la creación de aplicaciones web personalizadas, sitios web y soluciones digitales innovadoras para satisfacer las necesidades de nuestros clientes.
 
 ## 🚀 Proyectos Destacados
-- **[Juego de Tragamonedas]()**: Un juego de tragamonedas completo con funcionalidad de login, vista administrativa para gestionar el juego y una base de datos para almacenar información de usuarios y resultados.
+- **[Juego de Tragamonedas](https://github.com/Carlos-Guirola/Fortuna-Real)**: Un juego de tragamonedas completo con funcionalidad de login, vista administrativa para gestionar el juego y una base de datos para almacenar información de usuarios y resultados.
 - **[Sitio Web Strong Barber Shop](https://github.com/Carlos-Guirola/Strong-Barber-Shop)**: Un sitio web diseñado para gestionar citas en una barbería, con una interfaz fácil de usar para que los clientes puedan agendar sus visitas y para que el personal administre las citas.
 
 
@@ -20,7 +20,7 @@ Soy el fundador de **[TecnoArte-Web](https://tecnoarteweb.s3.us-east-2.amazonaws
 ## 📫 Cómo Contactarme
 
 - **Email**: [guirolacarlos745@gmail.com](mailto:guirolacarlos745@gmail.com)
-- **LinkedIn**: [Tu Perfil de LinkedIn](enlace-a-tu-perfil)
+- **LinkedIn**: [](enlace-a-tu-perfil)
 
 
 ## 🌟 Intereses
