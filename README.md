@@ -17,7 +17,7 @@ Soy el fundador de **[TecnoArte-Web](https://tecnoarteweb.s3.us-east-2.amazonaws
 ## 📫 Cómo Contactarme
 
 - **Email**: [guirolacarlos745@gmail.com](mailto:guirolacarlos745@gmail.com)
-- **LinkedIn**: [](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 
 ## 🌟 Intereses
