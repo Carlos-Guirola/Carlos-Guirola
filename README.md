@@ -4,11 +4,11 @@ Soy un desarrollador apasionado por la creación de aplicaciones web y software.
 
 ## 💼 Mi Compañía
 
-Soy el fundador de **[TecnoArte-Web](https://tecnoarteweb.s3.us-east-2.amazonaws.com/TenncoArte-Web/index.html)**, una pequeña compañia dedicada al desarrollo de soluciones web . En TecnoArte-Web, nos especializamos en la creación de aplicaciones web personalizadas, sitios web y soluciones digitales innovadoras para satisfacer las necesidades de nuestros clientes.
+Soy el fundador de **[TecnoArte-Web](https://tecnoarteweb.tech/)**, una pequeña compañia dedicada al desarrollo de soluciones web . En TecnoArte-Web, nos especializamos en la creación de aplicaciones web personalizadas, sitios web y soluciones digitales innovadoras para satisfacer las necesidades de nuestros clientes.
 
 ## 🚀 Proyectos Destacados
 - **[Juego de Tragamonedas](https://github.com/Carlos-Guirola/Fortuna-Real)**: Un juego de tragamonedas completo con funcionalidad de login, vista administrativa para gestionar el juego y una base de datos para almacenar información de usuarios y resultados.
- ## 🚀 Proyectos Destacados
+  
 - **[Sitio web Strong Barber Shop](https://strongbarber.vercel.app/)**: Un sitio web para mostrar servcios y agendar citas con vista administrativa y filtracion de  citas por fecha con base de datos y login desarrollado con Next.js.
 ## 📚 Habilidades
 
