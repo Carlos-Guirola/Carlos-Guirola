@@ -8,6 +8,8 @@ Soy el fundador de **[TecnoArte-Web](https://tecnoarteweb.s3.us-east-2.amazonaws
 
 ## 🚀 Proyectos Destacados
 - **[Juego de Tragamonedas](https://github.com/Carlos-Guirola/Fortuna-Real)**: Un juego de tragamonedas completo con funcionalidad de login, vista administrativa para gestionar el juego y una base de datos para almacenar información de usuarios y resultados.
+ ## 🚀 Proyectos Destacados
+- **[Sitio web Strong Barber Shop](https://strongbarber.vercel.app/)**: Un sitio web para mostrar servcios y agendar citas con vista administrativa y filtracion de  citas por fecha con base de datos y login desarrollado con Next.js.
 ## 📚 Habilidades
 
 - **Lenguajes de Programación**: Java, JavaScript, PHP, HTML, CSS.
