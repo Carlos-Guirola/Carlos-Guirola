@@ -1,34 +1,124 @@
- # ¡Hola, soy Carlos Guirola 👋
+
 ![Banner](https://github.com/Carlos-Guirola/Carlos-Guirola/blob/main/baner.png)
-Soy un desarrollador apasionado por la creación de aplicaciones web y software. Me encanta resolver problemas, diseñar interfaces innovadoras y aprender nuevas tecnologías. Disfruto trabajando en proyectos desafiantes que me permiten combinar mi creatividad con mis habilidades técnicas para construir soluciones efectivas y atractivas. Estoy siempre en busca de nuevas oportunidades para mejorar mis conocimientos y habilidades, y de colaborar en proyectos que marquen una diferencia.
 
-## 💼 Mi Compañía
+Soy estudiante de Ingeniería en Sistemas y desarrollador de software con experiencia en el desarrollo de aplicaciones web utilizando tecnologías modernas de frontend y backend.
 
-Soy el fundador de **[TecnoArte-Web](https://tecnoarteweb.tech/)**, una pequeña compañia dedicada al desarrollo de soluciones web . En TecnoArte-Web, nos especializamos en la creación de aplicaciones web personalizadas, sitios web y soluciones digitales innovadoras para satisfacer las necesidades de nuestros clientes.
+Me apasiona crear soluciones que optimicen procesos empresariales, mejoren la productividad y aporten valor a los usuarios. Disfruto participar en proyectos que impliquen diseño, desarrollo e implementación de sistemas completos, desde la base de datos hasta la interfaz de usuario.
 
-## 🚀 Proyectos Destacados
-- **[Juego de Tragamonedas](https://github.com/Carlos-Guirola/Fortuna-Real)**: Un juego de tragamonedas completo con funcionalidad de login, vista administrativa para gestionar el juego y una base de datos para almacenar información de usuarios y resultados.
-  
-- **[Sitio web Strong Barber Shop](https://strongbarber.vercel.app/)**: Un sitio web para mostrar servcios y agendar citas con vista administrativa y filtracion de  citas por fecha con base de datos y login desarrollado con Next.js.
-## 📚 Habilidades
+Actualmente continúo fortaleciendo mis conocimientos en desarrollo backend, arquitectura de software, bases de datos y buenas prácticas de programación.
 
-- **Lenguajes de Programación**: Java, JavaScript, PHP, HTML, CSS.
-- **Tecnologías**: React, Node.js, MySQL, Bootstrap, MySQL Server.
-- **Herramientas**: Git, GitHub, VSCode, Figma, Framer, NetBeans.
+## Proyectos Destacados
 
-## 📫 Cómo Contactarme
+### Sistema de Planillas
 
-- **Email**: [guirolacarlos745@gmail.com](mailto:guirolacarlos745@gmail.com)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+Sistema web para la gestión integral de nómina, empleados, cargos, salarios, prestaciones, deducciones, períodos de pago y generación de planillas.
 
+Características principales:
 
-## 🌟 Intereses
-- **Desarrollo de software**: Explorando nuevas técnicas y herramientas para crear soluciones innovadoras.
-- **Diseño UX/UI**: Creando interfaces intuitivas y atractivas que mejoran la experiencia del usuario.
-- **Tecnologías emergentes**: Manteniéndome actualizado con las últimas tendencias y herramientas en el mundo del desarrollo
-- **Desarrollo de aplicaciones móviles**: Creando aplicaciones innovadoras y funcionales para dispositivos móviles, explorando las mejores prácticas y herramientas para mejorar la experiencia del usuario en plataformas móviles.
+* Gestión de empleados.
+* Gestión de empresas.
+* Gestión de salarios.
+* Gestión de cargos.
+* Gestión de prestaciones.
+* Gestión de deducciones y descuentos.
+* Generación de planillas.
+* Supervisión y autorización de planillas.
+* Control de acceso mediante roles y permisos.
 
+Demo:
 
+https://sistema-planillas.vercel.app/
 
+---
 
+### ToolsPrint - Sistema de Automatización de Impresión Fotográfica
 
+Sistema web orientado a la automatización de impresiones fotográficas tipo Polaroid.
+
+Características principales:
+
+* Carga masiva de imágenes.
+* Personalización de diseños.
+* Generación automática de formatos de impresión.
+* Exportación a PDF.
+* Optimización de hojas para impresión fotográfica.
+
+Demo:
+
+https://sistema-automatizacion-impresion-fo.vercel.app/
+
+---
+
+### Fortuna Real
+
+Juego de tragamonedas desarrollado con sistema de autenticación, panel administrativo y almacenamiento de información mediante base de datos.
+
+Repositorio:
+
+https://github.com/Carlos-Guirola/Fortuna-Real
+
+---
+
+### Strong Barber Shop
+
+Sitio web para barbería con sistema de citas, panel administrativo y filtrado de reservas por fecha.
+
+Sitio web:
+
+https://strongbarber.vercel.app/
+
+## Tecnologías
+
+### Lenguajes de Programación
+
+* Java
+* JavaScript
+* PHP
+* Node
+
+### Frameworks y Librerías
+
+* React
+* Express
+* Bootstrap
+* SweetAlert2
+* React Router DOM
+
+### Maquetación y Estilos
+
+* HTML
+* CSS
+
+### Bases de Datos
+
+* MySQL
+
+### Herramientas
+
+* Git
+* GitHub
+* Visual Studio Code
+* Figma
+* Framer
+* NetBeans
+
+## Contacto
+
+Correo electrónico:
+
+[guirolacarlos745@gmail.com](mailto:guirolacarlos745@gmail.com)
+
+LinkedIn:
+
+https://www.linkedin.com/in/carlos-guirola
+
+## Áreas de Interés
+
+* Desarrollo Web Full Stack.
+* Arquitectura de Software.
+* Desarrollo Backend con Node.js.
+* Desarrollo Frontend con React.
+* Bases de Datos Relacionales.
+* Diseño de Interfaces de Usuario.
+* Automatización de Procesos.
+* Desarrollo de Aplicaciones Empresariales.
