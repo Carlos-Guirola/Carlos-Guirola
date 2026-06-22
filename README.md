@@ -110,7 +110,7 @@ Correo electrónico:
 
 LinkedIn:
 
-https://www.linkedin.com/in/carlos-guirola
+https://www.linkedin.com/in/carlos-raul-calderon/
 
 ## Áreas de Interés
 
